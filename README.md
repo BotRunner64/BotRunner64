@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6b7280&height=120&text=Hello%20👋&fontSize=48&fontAlignY=60" />
 </p>
 
-<h3 align="center">Bingqian Wu</h3>
+<h3 align="center">Wu Bingqian</h3>
 <p align="center"><sub>a embodied intelligence developer</sub></p>
 
 ## Focus
