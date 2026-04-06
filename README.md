@@ -17,21 +17,13 @@
 
 ---
 
-## Embodied AI Pipeline
+## Research Focus
 
-```text
-Sensors / Hardware
-        ↓
- Data Collection
-        ↓
- Model Training
-        ↓
- Benchmarking
-        ↓
- Deployment
-        ↓
- Real-World Applications
-```
+| Area | What I Work On |
+|---|---|
+| **Data** | Collection pipelines, annotation, quality filtering, and scalable data engines for robot learning |
+| **Representation** | Learning compact, generalizable state and visual representations from real-world observations |
+| **Training** | Policy learning, behavior cloning, and improving model robustness across tasks and environments |
 
 ---
 
