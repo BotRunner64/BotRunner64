@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1f2937&height=220&section=header&text=Wu%20Bingqian&fontSize=48&fontColor=e5e7eb&desc=Building%20Embodied%20Intelligence%20from%20hardware%20to%20deployment&descSize=18&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1f2937&height=220&section=header&text=Wu%20Bingqian&fontSize=48&fontColor=e5e7eb&desc=Building%20robots%20that%20act%20like%20humans%20in%20the%20real%20world&descSize=18&descAlignY=68" />
 </p>
 
 <p align="center">
