@@ -95,12 +95,17 @@ Sensors / Hardware
 ## GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="./github/metrics.svg" />
-  <img height="170" src="./github/metrics.languages.svg" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="./github/metrics.activity.svg" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/3-stats.svg" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
 ---

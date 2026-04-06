@@ -2,51 +2,23 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "23 1 * * *"   # 每天 UTC 1:23 自动更新
+    - cron: "23 1 * * *"
   workflow_dispatch:
   push:
     branches: [main]
 
 jobs:
-  metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Stats overview
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github/metrics.svg
-          config_timezone: Asia/Shanghai
-          config_padding: 6%
-          base: header, activity, community, repositories
-          plugins_errors_fatal: no
+      - uses: actions/checkout@v3
 
-      - name: Language breakdown
-        uses: lowlighter/metrics@v3.34
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github/metrics.languages.svg
-          config_timezone: Asia/Shanghai
-          config_padding: 6%
-          base: ""
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_ignored: html, css, makefile, cmake, dockerfile
-          plugins_errors_fatal: no
-
-      - name: Activity calendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github/metrics.activity.svg
-          config_timezone: Asia/Shanghai
-          config_padding: 6%
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugins_errors_fatal: no
+          USERNAME: BotRunner64
+          BRANCH_NAME: main
