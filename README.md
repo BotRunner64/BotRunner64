@@ -19,11 +19,7 @@
 
 ## Research Focus
 
-| Area | What I Work On |
-|---|---|
-| **Data** | Collection pipelines, annotation, quality filtering, and scalable data engines for robot learning |
-| **Representation** | Learning compact, generalizable state and visual representations from real-world observations |
-| **Training** | Policy learning, behavior cloning, and improving model robustness across tasks and environments |
+Data · Representation · Training for robot learning.
 
 ---
 
