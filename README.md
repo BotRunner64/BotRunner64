@@ -58,7 +58,7 @@ Data · Representation · Training for robot learning.
 
 ## Philosophy
 
-> Build the full loop. Measure the result. Ship the system.
+> Find the right direction. Iterate fast.
 
 ---
 
