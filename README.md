@@ -17,7 +17,7 @@
 
 ---
 
-## Research Focus
+## Focus
 
 Data · Representation · Training for robot learning.
 
