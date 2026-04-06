@@ -95,12 +95,12 @@ Sensors / Hardware
 ## GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BotRunner64&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotRunner64&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="./github/metrics.svg" />
+  <img height="170" src="./github/metrics.languages.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BotRunner64&theme=minimal&hide_border=true" />
+  <img src="./github/metrics.activity.svg" />
 </p>
 
 ---

@@ -1,0 +1,49 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "23 1 * * *"   # 每天 UTC 1:23 自动更新
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Stats overview
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github/metrics.svg
+          config_timezone: Asia/Shanghai
+          config_padding: 6%
+          base: header, activity, community, repositories
+
+      - name: Language breakdown
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github/metrics.languages.svg
+          config_timezone: Asia/Shanghai
+          config_padding: 6%
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css, makefile, cmake, dockerfile
+
+      - name: Activity calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github/metrics.activity.svg
+          config_timezone: Asia/Shanghai
+          config_padding: 6%
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
