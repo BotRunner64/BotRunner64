@@ -15,45 +15,6 @@
   <img src="https://img.shields.io/badge/Stack-Python%20%2B%20PyTorch%20%2B%20Linux-1d4ed8?style=for-the-badge" />
 </p>
 
-## About Me
-
-- I build embodied intelligence systems across the full stack: hardware, data collection, training, benchmarking, deployment, and applications.
-- I enjoy turning noisy real-world signals into reliable robotic behavior.
-- My goal is to make robot systems more generalizable, practical, and ready for the real world.
-
----
-
-## What I Am Building
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Now</h3>
-      <ul>
-        <li>End-to-end embodied system pipelines</li>
-        <li>Data collection and evaluation workflows</li>
-        <li>Training and deploying robot-ready models</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Improving</h3>
-      <ul>
-        <li>Benchmark reliability</li>
-        <li>System integration quality</li>
-        <li>Deployment efficiency</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Exploring</h3>
-      <ul>
-        <li>General-purpose robot capabilities</li>
-        <li>Embodied foundation models</li>
-        <li>Better bridges from simulation to reality</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Embodied AI Pipeline
@@ -86,9 +47,6 @@ Sensors / Hardware
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
 </p>
 
-<p align="center">
-  <sub>Core interests: robotics systems, model training, evaluation pipelines, deployment engineering</sub>
-</p>
 
 ---
 
@@ -119,5 +77,5 @@ Sensors / Hardware
 ## Connect
 
 <p align="center">
-  If you are working on robotics, embodied AI, data engines, or real-world deployment, feel free to connect.
+  Robotics · Embodied AI · Data Engines · Real-World Deployment
 </p>
