@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Embodied+AI+Developer;Robotics+%7C+Data+Engine+%7C+Policy+Learning+%7C+Deployment;Turning+perception+into+action+in+the+real+world" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Embodied+AI+Developer;Data+%C2%B7+Representation+%C2%B7+Training" />
 </p>
 
 <p align="center">
