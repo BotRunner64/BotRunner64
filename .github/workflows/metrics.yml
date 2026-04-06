@@ -15,16 +15,17 @@ jobs:
 
     steps:
       - name: Stats overview
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github/metrics.svg
           config_timezone: Asia/Shanghai
           config_padding: 6%
           base: header, activity, community, repositories
+          plugins_errors_fatal: no
 
       - name: Language breakdown
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github/metrics.languages.svg
@@ -36,9 +37,10 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, makefile, cmake, dockerfile
+          plugins_errors_fatal: no
 
       - name: Activity calendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github/metrics.activity.svg
@@ -47,3 +49,4 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 1
+          plugins_errors_fatal: no
