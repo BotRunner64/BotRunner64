@@ -69,7 +69,7 @@ Data · Representation · Training for robot learning.
     <img src="https://img.shields.io/badge/Email-bingqianwu@outlook.com-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://space.bilibili.com/521382355">
-    <img src="https://img.shields.io/badge/Bilibili-BotRunner64-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bilibili-BotRunner-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@BotRunner-b1h">
     <img src="https://img.shields.io/badge/YouTube-BotRunner-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
