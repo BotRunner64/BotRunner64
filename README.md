@@ -74,4 +74,13 @@ Data · Representation · Training for robot learning.
   <a href="https://www.youtube.com/@BotRunner-b1h">
     <img src="https://img.shields.io/badge/YouTube-BotRunner-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="./github/wechat.jpg">
+    <img src="https://img.shields.io/badge/WeChat-Wu%20Bingqian-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./github/wechat.jpg">
+    <img src="./github/wechat-qr.jpg" width="128" alt="WeChat QR code" />
+  </a>
 </p>
