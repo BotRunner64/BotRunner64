@@ -26,32 +26,6 @@
 
 ---
 
-## Focus
-
-Data · Representation · Training for robot learning.
-
----
-
-## Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,bash,cpp,docker&theme=light" />
-</p>
-
-<p align="center">
-  <img
-    src="https://huggingface.co/front/assets/huggingface_logo.svg"
-    height="48"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
-    height="48"
-  />
-</p>
-
----
-
 ## GitHub Dashboard
 
 <p align="center">
