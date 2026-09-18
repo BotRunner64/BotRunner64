@@ -1,18 +1,27 @@
-<!-- Hero -->
+<!-- Hero
+     Wu Bingqian
+     Building robots that act like humans in the real world
+-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1f2937&height=220&section=header&text=Wu%20Bingqian&fontSize=48&fontColor=e5e7eb&desc=Building%20robots%20that%20act%20like%20humans%20in%20the%20real%20world&descSize=18&descAlignY=68" />
 </p>
 
+<!-- Typing
+     Robot AI Developer
+-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Embodied+AI+Developer;Data+%C2%B7+Representation+%C2%B7+Training" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Robot+AI+Developer" />
 </p>
 
+<!-- Badges
+     GitHub · BotRunner64
+     Focus · General-purpose Robot
+-->
 <p align="center">
   <a href="https://github.com/BotRunner64">
     <img src="https://img.shields.io/badge/GitHub-BotRunner64-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Embodied%20Intelligence-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%2B%20PyTorch%20%2B%20Linux-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-General--purpose%20Robot-0f766e?style=for-the-badge" />
 </p>
 
 ---
@@ -30,11 +39,16 @@ Data · Representation · Training for robot learning.
 </p>
 
 <p align="center">
-  <img height="48" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
+  <img
+    src="https://huggingface.co/front/assets/huggingface_logo.svg"
+    height="48"
+  />
   &nbsp;&nbsp;&nbsp;
-  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+    height="48"
+  />
 </p>
-
 
 ---
 
@@ -81,6 +95,10 @@ Data · Representation · Training for robot learning.
 
 <p align="center">
   <a href="./github/wechat.jpg">
-    <img src="./github/wechat-qr.jpg" width="128" alt="WeChat QR code" />
+    <img
+      src="./github/wechat-qr.jpg"
+      width="128"
+      alt="WeChat QR code"
+    />
   </a>
 </p>
