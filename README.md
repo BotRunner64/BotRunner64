@@ -14,13 +14,9 @@
 </p>
 
 <!-- Badges
-     GitHub · BotRunner64
      Focus · General-purpose Robot
 -->
 <p align="center">
-  <a href="https://github.com/BotRunner64">
-    <img src="https://img.shields.io/badge/GitHub-BotRunner64-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Focus-General--purpose%20Robot-0f766e?style=for-the-badge" />
 </p>
 
